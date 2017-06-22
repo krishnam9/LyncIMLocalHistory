@@ -1,3 +1,11 @@
+STEPS For Installation
+===========================
+
+1. Download the Zip
+2. Copy the LyncIMLocalHistory.exe to windows startup folder.
+3. Run the exe
+4. Converstations are stored as TXT files in the folder configured in Skype/Lync options.
+
 LyncIMLocalHistory ver. 1.0
 ===========================
 Simple IM conversation tracker for people who want to keep the conversation 
